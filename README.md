@@ -5,4 +5,5 @@
 ### 2.Nuget restore and build project
 ### 3.Set Setting
 ![image](https://github.com/e23882/ya/blob/master/setting.png)
-### 4.Set the program to the schedule 
+### 4.Create a temp directory D:\SeleniumDownload
+### 5.Set the program to the daily schedule
